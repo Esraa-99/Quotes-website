@@ -1,0 +1,28 @@
+.hero{
+    height: 100vh;
+    background-image: url(../images/2148898297.jpg);
+    background-position: center;
+    background-size: cover;
+    font-family: "Spicy Rice", serif;
+    color: beige;
+}
+h1{
+    padding-top: 40px;
+    
+}
+h2{
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
+
+.quote{
+    margin-top: 10px;
+    padding: 40px;
+    background-color: rgba(0, 0, 0,0.3);
+    border-radius: 16px;
+}
+
+h5{
+    color: brown;
+}
